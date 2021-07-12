@@ -1,1 +1,5 @@
 Diamonback_explorer/.idea/
+
+Diamonback_explorer/__pycache__
+Diamonback_explorer/audio/.DS_Store
+Diamonback_explorer/__pycache__/user_actions.cpython-39.pyc
